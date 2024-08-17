@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.profile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.profile h2 {
+    font-size: 24px;
+}
+
+.profile p {
+    font-size: 18px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h3 {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.experience-item, .education-item {
+    margin-bottom: 20px;
+}
+
+.experience-item h4, .education-item h4 {
+    font-size: 18px;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+ul li {
+    padding-left: 20px;
+}
+
+body {
+    background-color: #87CEEB; 
+}
